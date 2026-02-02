@@ -1,5 +1,5 @@
 # Welcome to the SPACE!
-# SPAtial profiling of Cancer Ecosystems (SPACE)
+# Spatial Profiling Across Cancer Ecosystems (SPACE)
 This repository contains codes for the project: "Single-cell spatial profiling of the tumor core microenvironment reveals spatially-resolved cellular states, molecular programs and therapeutic targets".
 
 For more details, see our publication: ""
